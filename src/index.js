@@ -1,6 +1,3 @@
-// electron.autoUpdater.logger = require('electron-log')
-// electron.autoUpdater.logger.transports.file.level = 'info'
-
 const { autoUpdater, dialog, app, BrowserWindow } = require('electron')
 
 let win;
